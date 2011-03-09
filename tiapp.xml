@@ -3,10 +3,10 @@
 <id>com.flipmind.icoach</id>
 <name>iCoach</name>
 <version>1.0</version>
-<publisher>not specified</publisher>
-<url>not specified</url>
-<description>not specified</description>
-<copyright>not specified</copyright>
+<publisher>flipmind</publisher>
+<url>flipmind.com</url>
+<description>No description provided</description>
+<copyright>2011 by flipmind</copyright>
 <icon>default_app_logo.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
@@ -15,7 +15,7 @@
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
     <analytics>true</analytics>
-<guid>93ea6345-088b-4dc9-ba6b-b0029a0b430a</guid>
+<guid>dce27e31-06b1-4768-a3eb-c932457582c5</guid>
 	<iphone>
 		<orientations device="iphone">
 			<orientation>Ti.UI.PORTRAIT</orientation>
